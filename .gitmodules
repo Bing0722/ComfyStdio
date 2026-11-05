@@ -1,0 +1,9 @@
+[submodule "implementations/rust-gpui"]
+	path = implementations/rust-gpui
+	url = https://github.com/Bing0722/ComfyStdio-rust-gpui.git
+[submodule "implementations/cpp-qt"]
+	path = implementations/cpp-qt
+	url = https://github.com/Bing0722/ComfyStdio-cpp-qt.git
+[submodule "implementations/electron-react"]
+	path = implementations/electron-react
+	url = https://github.com/Bing0722/ComfyStdio-electron-react.git
