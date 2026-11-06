@@ -4,7 +4,7 @@ ComfyStdio 是一个 ComfyUI 桌面启动器项目，计划支持实例启动与
 
 ## 多语言实现
 
-当前优先开发 **Electron + React**，开发目录为 `implementations/electron-react/`。当前按一个 ComfyUI 工作目录组织启动、版本、模型和插件，已接入本地目录只读扫描；启动、下载及版本修改仍使用演示流程。 [Electron 开发说明](https://github.com/Bing0722/ComfyStdio-electron-react#本地开发)
+当前优先开发 **Electron + React**，开发目录为 `implementations/electron-react/`。当前 Electron 版本为 0.7.0，按一个 ComfyUI 工作目录组织运行与资产。支持真实启动、日志、固定目录获取、软件更新检查及文件夹便携包；模拟功能已移除，尚未接入的资产修改仅展示真实读取结果。 [Electron 开发说明](https://github.com/Bing0722/ComfyStdio-electron-react#本地开发)
 
 每次改动完成后，在对应仓库本地提交并推送。 [协作规范](AGENTS.md)
 
